@@ -42,10 +42,10 @@ Session.vim
 .dist
 .tmp
 
-/core/server/data/export/exported*
+#/core/server/data/export/exported*
 /content/tmp/*
-/content/data/*
-/content/apps/**/*
+#/content/data/*
+#/content/apps/**/*
 #/content/themes/**/*
 #/content/images/**/*
 !/content/themes/casper/**
@@ -59,8 +59,8 @@ CHANGELOG.md
 /core/test/coverage
 
 #config.js
-/core/client/config.js
-!/core/client/app/services/config.js
+#/core/client/config.js
+#!/core/client/app/services/config.js
 
 # Built asset files
 #/core/built
