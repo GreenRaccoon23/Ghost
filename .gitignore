@@ -59,8 +59,8 @@ CHANGELOG.md
 /core/test/coverage
 
 #config.js
-#/core/client/config.js
-#!/core/client/app/services/config.js
+/core/client/config.js
+!/core/client/app/services/config.js
 
 # Built asset files
 #/core/built
