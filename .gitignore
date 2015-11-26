@@ -56,14 +56,14 @@ CHANGELOG.md
 
 # Test generated files
 /core/test/functional/*.png
-/core/test/coverage
+#/core/test/coverage
 
 #config.js
 /core/client/config.js
 !/core/client/app/services/config.js
 
 # Built asset files
-#/core/built
+/core/built
 #/core/server/views/default.hbs
 
 # Coverage reports
