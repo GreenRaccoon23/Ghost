@@ -42,7 +42,7 @@ Session.vim
 .dist
 .tmp
 
-#/core/server/data/export/exported*
+/core/server/data/export/exported*
 /content/tmp/*
 #/content/data/*
 #/content/apps/**/*
