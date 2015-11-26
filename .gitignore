@@ -64,6 +64,7 @@ CHANGELOG.md
 
 # Built asset files
 #/core/built
+/core/built/assets/fonts/ghosticons.svg
 #/core/server/views/default.hbs
 
 # Coverage reports
